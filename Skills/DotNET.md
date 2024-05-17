@@ -1,38 +1,38 @@
 ## .NET
 
 - Core Concepts and Internals
-  - Strengths and weaknesses of .NET
-  - Stateful and stateless services
-  - Asynchronous and synchronous programming
-  - Task-based asynchronous pattern
-  - Garbage collection in .NET
-  - .NET runtime versions and support
-  - I/O-bound, CPU-bound tasks
+  - Strengths and weaknesses of .NET: 🖐️ used
+  - Stateful and stateless services: 🖐️ used
+  - Asynchronous and synchronous programming: 🖐️ used
+  - Task-based asynchronous pattern: 🖐️ used
+  - Garbage collection in .NET: 🎓 known
+  - .NET runtime versions and support: 👂 heard
+  - I/O-bound, CPU-bound tasks: 🖐️ used
   - Real-time applications with SignalR
 - Modularity and Dependencies
-  - .NET assemblies
-  - NuGet package management
-  - Dependency management in .NET
-  - Dependency Injection in .NET
-  - Inversion of Control (IoC)
-  - IoC containers in .NET
-  - Middleware and pipeline configuration
-  - Modular applications
+  - .NET assemblies: 🖐️ used
+  - NuGet package management: 🖐️ used
+  - Dependency management in .NET: 🖐️ used
+  - Dependency Injection in .NET: 🖐️ used
+  - Inversion of Control (IoC): 🎓 known
+  - IoC containers in .NET: 🖐️ used
+  - Middleware and pipeline configuration: 👂 heard
+  - Modular applications: 🖐️ used
 - Environment and Tools
-  - Command line interface (CLI) tools
-  - .NET CLI
+  - Command line interface (CLI) tools: 🖐️ used
+  - .NET CLI: 🖐️ used
   - Windows Services and Linux Daemons
-  - Hosting and Deployment models
+  - Hosting and Deployment models: 👂 heard
   - IIS and Kestrel web server
-  - Environment variables and configuration
-  - File system I/O operations
-  - Multithreading with Task Parallel Library (TPL)
+  - Environment variables and configuration: 👂 heard
+  - File system I/O operations: 🎓 known
+  - Multithreading with Task Parallel Library (TPL): 👂 heard
   - Performance monitoring and diagnostics
 - APIs and Framework Features
-  - LINQ
+  - LINQ: 🖐️ used
   - SignalR for real-time web functionality
   - High-performance RPC with `gRPC`
-  - Security features (authentication, authorization)
+  - Security features (authentication, authorization): 🖐️ used
   - Cryptography and secure data handling
   - Memory and resource management
   - Globalization and localization
@@ -46,23 +46,23 @@
   - Network security (DDoS, XSS, CSRF prevention)
   - Serialization and deserialization (JSON, XML)
 - Testing and Debugging
-  - Unit testing with frameworks like xUnit, NUnit
-  - Integration testing
-  - Logging and tracing
+  - Unit testing with frameworks like xUnit, NUnit: 🖐️ used
+  - Integration testing: 🖐️ used
+  - Logging and tracing: 👂 heard
   - Application monitoring and telemetry
-  - Debugging tools and strategies
+  - Debugging tools and strategies: 👂 heard
   - Performance profiling and analysis
 - Data Access and ORM
-  - Entity Framework Core
+  - Entity Framework Core: 🖐️ used
   - Dapper
   - ADO.NET for database access
-  - Data modeling and migration
-  - Repository and Unit of Work patterns
-  - CRUD operations
+  - Data modeling and migration: 🖐️ used
+  - Repository and Unit of Work patterns: 🖐️ used
+  - CRUD operations: 🖐️ used
 - Error Handling and Debugging
-  - Exception handling in .NET
-  - Custom error classes
-  - Debugging and diagnostic tools
+  - Exception handling in .NET: 🖐️ used
+  - Custom error classes: 👂 heard
+  - Debugging and diagnostic tools: 👂 heard
   - Profiling and performance analysis
   - Memory leak detection
 - Integration and Extensibility
@@ -78,11 +78,11 @@
   - Kubernetes for orchestration
   - Serverless computing
 - C# Development
-  - C# syntax and language fundamentals
-  - Advanced C# features (LINQ, async/await, delegates, events)
+  - C# syntax and language fundamentals: 🖐️ used
+  - Advanced C# features (LINQ, async/await, delegates, events): 🖐️ used
   - Reflection and dynamic programming
-  - Data types and collections
-  - Generics and extension methods
+  - Data types and collections: 🖐️ used
+  - Generics and extension methods: 🖐️ used
   - Attributes and annotations
   - Interoperability with other .NET languages
 - `F#` Development
@@ -103,7 +103,7 @@
   - Office automation and VSTO
   - Migration strategies for legacy VB6 applications
 - C++/CLI Development Development
-  - C++ syntax and language fundamentals
+  - C++ syntax and language fundamentals: 🖐️ used
   - Interoperability between managed (.NET) and unmanaged (native) code
   - Memory management in mixed environments
   - `C++/CLI` syntax and usage
@@ -122,7 +122,7 @@
 - Game development
   - Unity
 - Web development
-  - ASP.NET Core
+  - ASP.NET Core: 🖐️ used
   - Blazor
   - Razor Syntax
-  - RESTful API development
+  - RESTful API development: 🖐️ used
