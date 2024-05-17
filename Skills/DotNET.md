@@ -1,38 +1,38 @@
 ## .NET
 
 - Core Concepts and Internals
-  - Strengths and weaknesses of .NET
-  - Stateful and stateless services
-  - Asynchronous and synchronous programming
-  - Task-based asynchronous pattern
-  - Garbage collection in .NET
-  - .NET runtime versions and support
-  - I/O-bound, CPU-bound tasks
+  - Strengths and weaknesses of .NET u
+  - Stateful and stateless services u
+  - Asynchronous and synchronous programming u
+  - Task-based asynchronous pattern u
+  - Garbage collection in .NET k
+  - .NET runtime versions and support h
+  - I/O-bound, CPU-bound tasks u
   - Real-time applications with SignalR
 - Modularity and Dependencies
-  - .NET assemblies
-  - NuGet package management
-  - Dependency management in .NET
-  - Dependency Injection in .NET
-  - Inversion of Control (IoC)
-  - IoC containers in .NET
-  - Middleware and pipeline configuration
-  - Modular applications
+  - .NET assemblies u
+  - NuGet package management u
+  - Dependency management in .NET u
+  - Dependency Injection in .NET u
+  - Inversion of Control (IoC) k
+  - IoC containers in .NET u
+  - Middleware and pipeline configuration h
+  - Modular applications u
 - Environment and Tools
-  - Command line interface (CLI) tools
-  - .NET CLI
+  - Command line interface (CLI) tools u
+  - .NET CLI u
   - Windows Services and Linux Daemons
-  - Hosting and Deployment models
+  - Hosting and Deployment models h
   - IIS and Kestrel web server
-  - Environment variables and configuration
-  - File system I/O operations
-  - Multithreading with Task Parallel Library (TPL)
+  - Environment variables and configuration h
+  - File system I/O operations k
+  - Multithreading with Task Parallel Library (TPL) h
   - Performance monitoring and diagnostics
 - APIs and Framework Features
-  - LINQ
+  - LINQ u
   - SignalR for real-time web functionality
   - High-performance RPC with `gRPC`
-  - Security features (authentication, authorization)
+  - Security features (authentication, authorization) u
   - Cryptography and secure data handling
   - Memory and resource management
   - Globalization and localization
@@ -46,23 +46,23 @@
   - Network security (DDoS, XSS, CSRF prevention)
   - Serialization and deserialization (JSON, XML)
 - Testing and Debugging
-  - Unit testing with frameworks like xUnit, NUnit
-  - Integration testing
-  - Logging and tracing
+  - Unit testing with frameworks like xUnit, NUnit u
+  - Integration testing u
+  - Logging and tracing h
   - Application monitoring and telemetry
-  - Debugging tools and strategies
+  - Debugging tools and strategies h
   - Performance profiling and analysis
 - Data Access and ORM
-  - Entity Framework Core
+  - Entity Framework Core u
   - Dapper
   - ADO.NET for database access
-  - Data modeling and migration
-  - Repository and Unit of Work patterns
-  - CRUD operations
+  - Data modeling and migration u
+  - Repository and Unit of Work patterns u
+  - CRUD operations u
 - Error Handling and Debugging
-  - Exception handling in .NET
-  - Custom error classes
-  - Debugging and diagnostic tools
+  - Exception handling in .NET u
+  - Custom error classes h
+  - Debugging and diagnostic tools h
   - Profiling and performance analysis
   - Memory leak detection
 - Integration and Extensibility
@@ -78,11 +78,11 @@
   - Kubernetes for orchestration
   - Serverless computing
 - C# Development
-  - C# syntax and language fundamentals
-  - Advanced C# features (LINQ, async/await, delegates, events)
+  - C# syntax and language fundamentals u
+  - Advanced C# features (LINQ, async/await, delegates, events) u
   - Reflection and dynamic programming
-  - Data types and collections
-  - Generics and extension methods
+  - Data types and collections u
+  - Generics and extension methods u
   - Attributes and annotations
   - Interoperability with other .NET languages
 - `F#` Development
@@ -103,7 +103,7 @@
   - Office automation and VSTO
   - Migration strategies for legacy VB6 applications
 - C++/CLI Development Development
-  - C++ syntax and language fundamentals
+  - C++ syntax and language fundamentals u
   - Interoperability between managed (.NET) and unmanaged (native) code
   - Memory management in mixed environments
   - `C++/CLI` syntax and usage
@@ -122,7 +122,7 @@
 - Game development
   - Unity
 - Web development
-  - ASP.NET Core
+  - ASP.NET Core u
   - Blazor
   - Razor Syntax
-  - RESTful API development
+  - RESTful API development u
