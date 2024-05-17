@@ -1,19 +1,19 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming k
-  - Imperative programming k
-  - Structured programming k
-  - Non-structured programming k
-  - Functional programming u
-  - Prototype-based programming k
-  - Object-oriented programming u
-  - Object-based programming u
-  - Generic programming u
+  - Procedural programming: 🎓 known
+  - Imperative programming: 🎓 known
+  - Structured programming: 🎓 known
+  - Non-structured programming: 🎓 known
+  - Functional programming: 🖐️ used
+  - Prototype-based programming: 🎓 known
+  - Object-oriented programming: 🖐️ used
+  - Object-based programming: 🖐️ used
+  - Generic programming: 🖐️ used
   - Concurrent computing
-  - Asynchronous programming u
-  - Parallel programming u
-  - Reactive programming h
+  - Asynchronous programming: 🖐️ used
+  - Parallel programming: 🖐️ used
+  - Reactive programming: 👂 heard
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
@@ -27,46 +27,46 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor u
-  - Operator `new` u
-  - Static method u
-  - Method u
-  - Async method u
-  - Getters, Setters u
-  - Public fields u
-  - Private fields u
-  - Field declarations u
-  - Inheritance u
-  - Parent class u
-  - Polymorphism u
-  - Abstract class u
-  - Interface u
-  - Encapsulation u
-  - Hidden class u
-  - Object form u
-  - Instance u
-  - Introspection u
-  - Reflection u
-  - The diamond problem u
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method: 🖐️ used
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class: 🖐️ used
+  - Interface: 🖐️ used
+  - Encapsulation: 🖐️ used
+  - Hidden class: 🖐️ used
+  - Object form: 🖐️ used
+  - Instance: 🖐️ used
+  - Introspection: 🖐️ used
+  - Reflection: 🖐️ used
+  - The diamond problem: 🖐️ used
 - GRASP
-  - Information expert h
-  - Creator h
-  - Controller h
-  - Indirection h
-  - Low coupling h
-  - High cohesion h
-  - Protected variations h
-  - Pure fabrication  h
+  - Information expert: 👂 heard
+  - Creator: 👂 heard
+  - Controller: 👂 heard
+  - Indirection: 👂 heard
+  - Low coupling: 👂 heard
+  - High cohesion: 👂 heard
+  - Protected variations: 👂 heard
+  - Pure fabrication: 👂 heard
 - SOLID
-  - Single-responsibility principle (SRP) u
-  - Open–closed principle (OCP) u
-  - Liskov substitution principle (LSP) u
-  - Interface segregation principle (ISP) u
-  - Dependency inversion principle (DIP) u
+  - Single-responsibility principle (SRP): 🖐️ used
+  - Open–closed principle (OCP): 🖐️ used
+  - Liskov substitution principle (LSP): 🖐️ used
+  - Interface segregation principle (ISP): 🖐️ used
+  - Dependency inversion principle (DIP): 🖐️ used
 - Patterns
-  - Singleton h
-  - Factory Method h
-  - Abstract Factory h
+  - Singleton: 👂 heard
+  - Factory Method: 👂 heard
+  - Abstract Factory: 👂 heard
   - Adapter
   - Observer
   - Strategy

@@ -1,45 +1,45 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop  u
-  - `try..catch` u
-  - Non-blocking k
-  - Async I/O u
-  - Thread pool k
-  - Pattern Reactor h
-  - CAS operations u
+  - Event loop: 🖐️ used
+  - `try..catch`: 🖐️ used
+  - Non-blocking: 🎓 known
+  - Async I/O: 🖐️ used
+  - Thread pool: 🎓 known
+  - Pattern Reactor: 👂 heard
+  - CAS operations: 🖐️ used
   - epoll
   - kqueue
   - Completion ports
   - Event ports
   - libuv
   - Race conditions
-  - Dead locks k
-  - Live locks k
-  - Concurrent programming u
-  - Parallel programming u
+  - Dead locks: 🎓 known
+  - Live locks: 🎓 known
+  - Concurrent programming: 🖐️ used
+  - Parallel programming: 🖐️ used
   - Actor Model
-  - Thread u
-  - Process h
+  - Thread: 🖐️ used
+  - Process: 👂 heard
 - Async contracts
-  - Callbacks u
-  - Callback-last-error-first u
+  - Callbacks: 🖐️ used
+  - Callback-last-error-first: 🖐️ used
   - Thenable
-  - Promise u
-  - Async/await u
+  - Promise: 🖐️ used
+  - Async/await: 🖐️ used
   - Future
   - Deferred
-  - Sync generator h
-  - Async Generator h
-  - Async Iterator h
-  - Event h
+  - Sync generator: 👂 heard
+  - Async Generator: 👂 heard
+  - Async Iterator: 👂 heard
+  - Event: 👂 heard
   - Coroutine
   - Goroutine
   - Signal
-  - Stream u
+  - Stream: 🖐️ used
   - Chain of responsibility
-  - Middleware h
-  - Locks u
+  - Middleware: 👂 heard
+  - Locks: 🖐️ used
 - Async adapters and utils
   - callbackify
   - promisify
@@ -47,23 +47,23 @@
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter h
-  - Observable/Observer h
-  - Readable h
-  - Writable h
-  - Transform h
-  - Async Pool h
-  - Async Queue h
-  - Async Collector h
-  - Semaphore u
-  - Mutex u
-  - Spin Lock h
+  - EventEmitter: 👂 heard
+  - Observable/Observer: 👂 heard
+  - Readable: 👂 heard
+  - Writable: 👂 heard
+  - Transform: 👂 heard
+  - Async Pool: 👂 heard
+  - Async Queue: 👂 heard
+  - Async Collector: 👂 heard
+  - Semaphore: 🖐️ used
+  - Mutex: 🖐️ used
+  - Spin Lock: 👂 heard
 - JavaScript & Node.js specific
-  - Timers k
-  - `setImmediate` k
-  - `nextTick` k
-  - AbortController h
-  - AbortSignal h
+  - Timers: 🎓 known
+  - `setImmediate`: 🎓 known
+  - `nextTick`: 🎓 known
+  - AbortController: 👂 heard
+  - AbortSignal: 👂 heard
   - Promise unhandled rejection
   - Promise double resolve
   - Atomics
